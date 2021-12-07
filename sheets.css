@@ -1,0 +1,16 @@
+body
+{
+    text-align: center;
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+canvas
+{
+    color: antiquewhite;
+}
+#myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
